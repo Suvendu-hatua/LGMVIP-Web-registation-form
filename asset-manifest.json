@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LGMVIP-Web-registration-form/static/css/main.f2c9779f.css",
+    "main.js": "/LGMVIP-Web-registration-form/static/js/main.776d56d2.js",
+    "static/js/787.362ab7a1.chunk.js": "/LGMVIP-Web-registration-form/static/js/787.362ab7a1.chunk.js",
+    "index.html": "/LGMVIP-Web-registration-form/index.html",
+    "main.f2c9779f.css.map": "/LGMVIP-Web-registration-form/static/css/main.f2c9779f.css.map",
+    "main.776d56d2.js.map": "/LGMVIP-Web-registration-form/static/js/main.776d56d2.js.map",
+    "787.362ab7a1.chunk.js.map": "/LGMVIP-Web-registration-form/static/js/787.362ab7a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2c9779f.css",
+    "static/js/main.776d56d2.js"
+  ]
+}
